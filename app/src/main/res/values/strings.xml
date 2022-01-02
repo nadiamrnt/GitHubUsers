@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="avatar">avatar</string>
+    <string name="username">username</string>
+    <string name="url">url</string>
+    <string name="cth"> </string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="colon">:</string>
+    <string name="nulltext">NULL</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="menu">menu</string>
+    <string name="dark_mode">dark mode</string>
+</resources>
